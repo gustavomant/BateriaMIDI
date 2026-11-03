@@ -1,0 +1,23 @@
+# Dependências do projeto BateriaMIDI
+# Lubuntu 24.04 LTS / Ubuntu
+
+# Compilação do bridge C++
+build-essential
+libjack-jackd2-dev
+
+# Áudio e MIDI
+pipewire
+pipewire-jack
+wireplumber
+jack-tools
+hydrogen
+qpwgraph
+
+# Simulação de portas seriais
+socat
+
+# Controle de versão
+git
+
+# Arduino IDE (instalação separada)
+# https://www.arduino.cc/en/software
